@@ -34,5 +34,5 @@ var_dump(is_array(10, $notas));
 //isset = verifica se a chave existe e não é nula
 //array_search = verifica se a chave existe e tras o indicador
 
-echo "Quem tirou 10: ";
+echo "Quem tirou 10: "; 
 var_dump (array_search (10, $notas));
