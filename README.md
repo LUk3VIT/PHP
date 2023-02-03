@@ -13,7 +13,7 @@ Avançando com PHP = 100%
 2 Aprofundando em Strings e Arrays 2/4
 
 PHP = 100%
-PHP Stings = 0%
+PHP Stings = 45%
 
 3 Orientação a objetos 3/4
 
