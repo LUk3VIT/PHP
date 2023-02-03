@@ -1,6 +1,6 @@
 <?php
 $nome = 'Vinícius Dias';
-$email = 'lucas@gmail.com';
+$email = ' lucas@gmail.com ';
 $senha = '123';
 
 
@@ -27,5 +27,7 @@ list($nome, $sobrenome) = explode(' ', $nome);
 echo'Nome: ' . $nome . PHP_EOL;
 echo'Sobrenome: ' . $sobrenome .PHP_EOL;
 
-$csv = ''
+$csv = 'Lucas Dias,24,lucasdiass061@gmail.com';
+var_dump(explode(',', $csv));
 
+echo trim($email) . PHP_EOL;
