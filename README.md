@@ -26,6 +26,6 @@ obs: esse curso ja foi feito em 2022
 
 4 manipulação de arquivos e tratamento de erros 0/4
 
-PHP I/o = 0%
+PHP I/o = 17%%
 PHP Exceptions = 0%
 
